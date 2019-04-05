@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-	 programmer_hash[:gracehopper]
+	return programmer_hash[:gracehopper]
 
 
 end
